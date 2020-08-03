@@ -8,11 +8,13 @@ _Cloudops engineer_
 
 **Cloudops Engineer and Architect** @ [DW](https://www.danielwellington.com) _(Aug 2017 - Present)_ <br>
 blah
-
+  - AWS
 
 **Senior Application Engineer** @ [Kambi](https://www.kambi.com) _(Jan 2011 - Jun 2017)_ <br>
- - Linux
- - Java, Ruby, nodeJS
- - Puppet, Capistrano, Ansible
- - ELK
+blah
+  - Linux
+  - Java, Ruby, nodeJS
+  - Puppet, Capistrano, Ansible
+  - ELK
+
 
