@@ -12,9 +12,9 @@ Retail
   - Go development of tools and backend applications
   - Docker, Bitbucket pipelines, Grafana, InfluxDB
   - Code:
-    - ecs-balancer - https://github.com/dwtechnologies/ecs-balancer
-    - spot-drainer - https://github.com/dwtechnologies/spot-drainer
-    - ec2scheduler - https://github.com/dwtechnologies/ec2scheduler
+    - [ecs-balancer](https://github.com/dwtechnologies/ecs-balancer)
+    - [spot-drainer](https://github.com/dwtechnologies/spot-drainer)
+    - [ec2scheduler](https://github.com/dwtechnologies/ec2scheduler)
 <br><br>
 
 **Senior Application Engineer** @ [Kambi](https://www.kambi.com) _(Jan 2011 - Jun 2017)_ <br>
