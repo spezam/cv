@@ -8,10 +8,10 @@ _Cloud engineer and architect based in Stockholm, Sweden_
 
 **Cloud Engineer and Architect** @ [DW](https://www.danielwellington.com) _(Aug 2017 - Present)_ <br>
 Accessories retail company.<br>
-_Architectural and operational ownership of the eCommerce platform, which includes monitoring, scaling and integration._
+_Architectural and operational ownership of the eCommerce platform, which includes monitoring, scale and integration._
   - AWS
-  - Go development (automation tools and backend applications)
-  - Docker, Bitbucket, Grafana, InfluxDB
+  - Go development (automation tools and serverless backend applications)
+  - Docker, Bitbucket, Grafana, InfluxDB, ES
   - Code:
     - [ecs-balancer](https://github.com/dwtechnologies/ecs-balancer)
     - [spot-drainer](https://github.com/dwtechnologies/spot-drainer)
@@ -34,4 +34,7 @@ Online gambling.
   - Puppet
 <br><br>
 
-https://github.com/spezam/eventbridge-cli
+
+## 📦 Code
+[Eventbridge CLI](https://github.com/spezam/eventbridge-cli)
+
