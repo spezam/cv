@@ -1,6 +1,6 @@
 # Matteo Ridolfi
 
-_Cloudops engineer_
+_Cloudops engineer and architect based in Stockholm, Sweden_
 
 [Email](mailto:spezam@gmail.com) / [GitHub](https://github.com/spezam/)
 
