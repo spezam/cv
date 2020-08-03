@@ -1,4 +1,5 @@
 theme: jekyll-theme-minimal
 title: ⌨️
 description: Matteo Ridolfi's CV
-site.is_project_page: false
+github:
+  is_project_page: false
