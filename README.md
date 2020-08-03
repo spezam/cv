@@ -4,7 +4,7 @@ _Cloud engineer and architect based in Stockholm, Sweden_
 
 [Email](mailto:spezam@gmail.com) / [GitHub](https://github.com/spezam/)
 
-## Technical Experience
+## 🔧 Technical Experience
 
 **Cloud Engineer and Architect** @ [DW](https://www.danielwellington.com) _(Aug 2017 - Present)_ <br>
 Accessories retail company.<br>
