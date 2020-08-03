@@ -7,10 +7,11 @@ _Cloud engineer and architect based in Stockholm, Sweden_
 ## Technical Experience
 
 **Cloud Engineer and Architect** @ [DW](https://www.danielwellington.com) _(Aug 2017 - Present)_ <br>
-Retail
+Accessories retail company.<br>
+_Architectural and operational ownership of the eCommerce platform, which includes monitoring, scaling and integration._
   - AWS
-  - Go development of tools and backend applications
-  - Docker, Bitbucket pipelines, Grafana, InfluxDB
+  - Go development (automation tools and backend applications)
+  - Docker, Bitbucket, Grafana, InfluxDB
   - Code:
     - [ecs-balancer](https://github.com/dwtechnologies/ecs-balancer)
     - [spot-drainer](https://github.com/dwtechnologies/spot-drainer)
@@ -18,7 +19,7 @@ Retail
 <br><br>
 
 **Senior Application Engineer** @ [Kambi](https://www.kambi.com) _(Jan 2011 - Jun 2017)_ <br>
-B2B Sports gambling company.
+B2B sports gambling.<br>
 Responsible for the planning, delivering, monitoring, maintenance and scale of the company distributed application stack, based on microservices mainly written in Java.
   - CI/CD and configuration management: Puppet, Jenkins, Ansible, Capistrano
   - Monitoring and logging: Zabbix, ELK stack, Statsd, Grafana, Sentry
@@ -27,7 +28,7 @@ Responsible for the planning, delivering, monitoring, maintenance and scale of t
 <br><br>
 
 **Senior Application Technician** @ [Unibet](https://www.kindredgroup.com) _(May 2010 - Jan 2011)_ <br>
-Online gambling company.
+Online gambling.
   - Linux
   - Java
   - Puppet
