@@ -48,21 +48,22 @@ _Ownership of the [Kontain](http://kontain.com) platform, social and media conta
 
 **Senior Integration Engineer** @ [VoxGen](https://www.voxgen.com) _(Jan 2007 - Jan 2008)_ <br>
 London based company developing IVR, SMS, chatbots solutions.<br>
-_Responsible for the installation, configuration and maintenance of the Application Servers and Voice platforms on developing, staging and production environments._
-  - Application servers: BEA Weblogic Server v8, v10, JBoss and Apache Tomcat 5.x.x (clustered)
-  - Voice Platforms: Nuance NVP v3.x, Genesys Voice Platform EE 7.x, VoiceGenie 7.x MRCP Direct with Acappella, Loquendo, Nuance RealSpeak and OpenSpeech Recognizer, Speaker Verification speech technologies
-  - Telephony: Toshiba Strata PBX, Asterisk PBX, OpenSER SIP Server, Vegastream and Cisco VoIP gateways
-  - Nortel Service Creation Environment 1.0
-  - Deployment and maintenance of IVR VoiceXML/Java applications on Voice platforms
-  - Installation, configuration and maintenance of all the Fedora Linux platforms: Twiki, Bugzilla, application servers, database servers (Oracle, SQL Server, PostgreSQL).
-  - Design and estimate of call center solutions
+_Responsible for the installation, integration, configuration and maintenance of Application Servers and Voice platforms._
+  - Application servers: BEA Weblogic Server v10, JBoss, Apache Tomcat
+  - Voice Platforms: Nuance NVP v3.x, Genesys Voice Platform EE 7.x, VoiceGenie 7.x MRCP Direct
+  - Speech technologies: Acappella, Loquendo, Nuance RealSpeak and OpenSpeech Recognizer, Speaker Verification
+  - Telephony: Toshiba Strata PBX, Asterisk PBX, OpenSER SIP Server, Vegastream, Cisco VoIP gateways
   - Deployment of Asterisk PBX as a telephony session load balancer for Voice Platforms with Billing and Reconciliation functions for both incoming and outgoing trunks
-  - Deployment of Asterisk as the main company PBX, facing the PSTN with Dialogic and Aculab cards
-  - Research & supporting decision on small voice browser platform to replace NVP
-  - Installation of a VoiceGenie 7.1.2 Voice Platform connected with external speech resources through MRCP and interfacing with the PSTN with a Dialogic Diva Card
-
-
 <br><br>
+
+**Technical Project Manager** @ [Treviso province](https://www.provincia.treviso.it) _(May 2006)_ <br>
+Plan, design, implementation and maintenance of two subsystems.
+  - Proxy server (Squid) for a distributed 300 clients network with filtering capabilities (dansGuardian), authentication against Windows 2000 Active Directory (ntlm_auth), Squid daily analysis report generator (Sarg) and daily blocklist update
+  - Mail server for three Internet domains and about 500 mailboxes, based on Postfix and SASL with Mysql backend. Horde, Mailman, Web-cyradm. SpamAssassin and AMaViS for the security of the mail services
+<br><br>
+
+**Senior System Integrator** @ [Commerciale Brendolan](https://www.selexgc.it) _(Oct 2004 - Dec 2006)_ <br>
+
 
 ## 📦 Code
   - [Eventbridge CLI](https://github.com/spezam/eventbridge-cli)
