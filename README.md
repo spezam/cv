@@ -65,21 +65,18 @@ Plan, design, implementation and maintenance of two subsystems.
 **Integration Engineer** @ [Commerciale Brendolan](https://www.selexgc.it) _(Oct 2004 - Dec 2006)_ <br>
 Retail company.<br>
 _Installation, management and responsibility of a server farm with around 20 Windows 2003/Linux IBM xSeries servers (305, 306, 445DP, 445MP, 345 models), SUN Fire X4100, a FAStT900 SAN and an IBM Blade Center with HS20 Blade Servers, 3 Firewalls and 7 Cisco routers (1700series and 2700series)._
-  - Update of the existing network infrastructure with the segmentation of the existing LAN (300 clients and 30 servers) in VLANs, introduction of two High Availability Clustered Linux Firewalls to manage, secure and monitor the communications between the Virtual LANs
-  - Installation of a Lotus Domino 6.5.x clustered mail and groupware system on Linux platform, configuration of the mail servers to filter the communications between employees and between employees and external associates
-  - _Commbre Desktop System_, enterprise environment for the centralization of information and administration tasks
-Based on LVS (Linux Virtual Server) architecture, NoMachine NX session compression protocol, Polyserve Matrix data clustering software
-Every remote or internal user connect to the cluster with a Praim Thin Client (Linux based), authenticate securely against a LDAP tree and work centrally with files and applications (iSeries Access, ROX File Manager (internally patched), StarOffice, Domino Web Access with Firefox, ...). The project it’s been published as case study by Praim (www.praim.it)
-  - Linux Samba 3 primary domain controller (PDC) and file server integrated with a centralized LDAP tree for authentication of about 300 Windows 98 SE, Windows XP, Windows 2000 clients with roaming profiles
-  - Cisco 2600series router configured with 6 ISDN lines to receive and send data with 160 remote Zyxel 202H series routers (orders, dates of retail, variations, remote admin, ...) and three clustered Windows 2003 Enterprise Server to receive and manage orders
+  - Linux, Windows Server 2003
+  - Development and ownership of _Commbre Desktop System_, enterprise environment for the centralization of information and administration tasks. Based on LVS (Linux Virtual Server) architecture, NoMachine NX session compression protocol, Polyserve Matrix data clustering software. Every remote or internal user connect to the cluster with a Praim Thin Client (Linux based), authenticate securely against a LDAP tree and work centrally with files and applications (iSeries Access, ROX File Manager (internally patched), StarOffice, Domino Web Access with Firefox)
   - Oracle 10g in a replicated environment for Data Warehousing Application (E3 - Explorer Enterprise Edition) on SUN Solaris 10 operating system
+  - Installation of a Lotus Domino 6.5 clustered mail and groupware system on Linux platform, configuration of the mail servers to filter the communications between employees and between employees and external associates
+  - Cisco 2600series router configured with 6 ISDN lines to receive and send data with 160 remote Zyxel 202H series routers (orders, dates of retail, variations, remote admin)
 <br><br>
 
 **Consultant** @ [Active Srl](https://www.linkedin.com/company/active-s.r.l._2/) _(Mar 2003 - Sep 2004)_ <br>
 IT consultant firm.<br>
-_Consultant to small, medium and big companies on open IT solutions mostly based on Linux, with a special focus on security, system integration, and Cisco System hardware._
+_Consultant for small, medium and big companies on open IT solutions mostly based on Linux, with a special focus on security, system integration, and Cisco System hardware._
   - Linux, AS400
-  - Cisco: PIX 505, PIX 525, VPN 3005 Concentrator
+  - Cisco: PIX 505, PIX 525, VPN 3005 Concentrator, 2600series router
 <br><br>
 
 ## 📦 Code
