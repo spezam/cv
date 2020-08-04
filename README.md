@@ -64,7 +64,17 @@ Plan, design, implementation and maintenance of two subsystems.
 
 **Senior System Integrator** @ [Commerciale Brendolan](https://www.selexgc.it) _(Oct 2004 - Dec 2006)_ <br>
 
+<br><br>
 
 ## 📦 Code
   - [Eventbridge CLI](https://github.com/spezam/eventbridge-cli)
 
+<br><br>
+
+## 🗞 Publications
+  - Inter.net. N.81(July/August),2002 - Interfacciare un apparecchio GSM ad un sistema GNU/Linux attraverso Gnokii (prima parte). (Interface a GSM appliance with a GNU/Linux system through Gnokii, Part 1)
+  - Linux Magazine. N.62(July/August),2002 - SquidGuard, navigazione web sotto controllo. (SquidGuard, web navigation under control)
+  - Inter.net. N.82(September),2002 - Interfacciare un apparecchio GSM ad un sistema GNU/Linux attraverso Gnokii (seconda parte). (Interface a GSM appliance with a GNU/Linux system through Gnokii, Part 2)
+  - Linux Magazine. N.63(September),2002 - Monitorare i servizi del proprio server con MON. (Monitoring of the services with Mon)
+  - Linux Magazine. N.28(March),2003 - Un sistema integrato per la gestione degli account. (Integrated system for accounts management)
+  - TechWorld/IDG.se, October 2014 - De sparar storkovan på att spola Splunk [idg](http://www.idg.se/2.1085/1.588648/de-sparar-storkovan-pa-att-spola-splunk?queryText=splunk)
