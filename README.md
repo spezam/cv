@@ -10,7 +10,7 @@ _Cloud engineer and architect based in Stockholm, Sweden_
 Accessories retail company.<br>
 _Architectural and operational ownership of the eCommerce platform, which includes monitoring, scale and integration._
   - AWS
-  - Go development (automation tools and serverless backend applications)
+  - Go development (automation tools, serverless backend applications)
   - Docker, Bitbucket, Grafana, InfluxDB, ES
   - Code:
     - [ecs-balancer](https://github.com/dwtechnologies/ecs-balancer)
@@ -51,7 +51,7 @@ London based company developing IVR, SMS, chatbots solutions.<br>
 _Responsible for the installation, integration, configuration and maintenance of Application Servers and Voice platforms._
   - Application servers: BEA Weblogic Server v10, JBoss, Apache Tomcat
   - Voice Platforms: Nuance NVP v3.x, Genesys Voice Platform EE 7.x, VoiceGenie 7.x MRCP Direct
-  - Speech technologies: Acappella, Loquendo, Nuance RealSpeak and OpenSpeech Recognizer, Speaker Verification
+  - Speech technologies: Acappella, Loquendo, Nuance RealSpeak, OpenSpeech Recognizer, Speaker Verification
   - Telephony: Toshiba Strata PBX, Asterisk PBX, OpenSER SIP Server, Vegastream, Cisco VoIP gateways
   - Deployment of Asterisk PBX as a telephony session load balancer for Voice Platforms with Billing and Reconciliation functions for both incoming and outgoing trunks
 <br><br>
@@ -90,3 +90,5 @@ _Consultant for small, medium and big companies on open IT solutions mostly base
   - Linux Magazine. N.63(September), 2002 - Monitorare i servizi del proprio server con MON. (Monitoring of the services with Mon)
   - Linux Magazine. N.28(March), 2003 - Un sistema integrato per la gestione degli account. (Integrated system for accounts management)
   - TechWorld/IDG.se, October 2014 - De sparar storkovan på att spola Splunk [idg](http://www.idg.se/2.1085/1.588648/de-sparar-storkovan-pa-att-spola-splunk?queryText=splunk)
+
+
