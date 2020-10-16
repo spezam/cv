@@ -7,7 +7,7 @@ _Cloud engineer and architect based in Stockholm, Sweden_
 ## 🔧 Technical Experience
 
 **Cloud Engineer and Architect** @ [DW](https://danielwellington.com) _(Aug 2017 - Present)_ <br>
-Accessories retail company.<br>
+Retail company.<br>
 _Architectural and operational ownership of the eCommerce platform, which includes monitoring, scale and integration._
   - AWS
   - Go development (automation tools, serverless backend applications)
