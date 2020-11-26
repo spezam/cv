@@ -91,4 +91,8 @@ _Consultant for small, medium and big companies on open IT solutions mostly base
   - Linux Magazine. N.28(March), 2003 - Un sistema integrato per la gestione degli account. (Integrated system for accounts management)
   - TechWorld/IDG.se, October 2014 - De sparar storkovan på att spola Splunk [idg](http://www.idg.se/2.1085/1.588648/de-sparar-storkovan-pa-att-spola-splunk?queryText=splunk)
 
+## 🪨 Personal interests and other experiences
+  - December 2001/December 2006 - Volunteer paramedic
+  - Sports: running, swimming, swimrun, winter sports
+
 
