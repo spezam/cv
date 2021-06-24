@@ -6,7 +6,13 @@ _Cloud engineer and architect based in Stockholm, Sweden_
 
 ## 🔧 Technical Experience
 
-**Cloud Engineer and Architect** @ [DW](https://danielwellington.com) _(Aug 2017 - Present)_ <br>
+**Cloud Engineer** @ [Trustly](https://www.trustly.net) _(March 2021 - )_ <br>
+Fintech.<br>
+  - GCP
+  - Kubernetes, ArgoCD, Terraform, Ansible
+<br><br>
+
+**Cloud Engineer and Architect** @ [DW](https://danielwellington.com) _(Aug 2017 - March 2021)_ <br>
 Retail company.<br>
 _Architectural and operational ownership of the eCommerce platform, which includes monitoring, scale and integration._
   - AWS
