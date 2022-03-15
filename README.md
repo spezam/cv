@@ -8,10 +8,11 @@ _Cloud engineer and architect based in Stockholm, Sweden_
 
 **Cloud Engineer** @ [Trustly](https://www.trustly.net) _(March 2021 - )_ <br>
 Fintech.<br>
+_Architectural and operational ownership of the cloud infrastructure, responsible for the planning and implementation of onPrem -> Cloud workload migration._
   - GCP, AWS
   - Kubernetes (GKE, EKS)
   - Terraform, Cloudformation, Ansible
-  - ArgoCD, Helm, Kustomize, Spinnaker, GitHub Actions
+  - ArgoCD, Helm, Kustomize, Karpenter, GitHub Actions
   - Istio
 <br><br>
 
