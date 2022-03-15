@@ -20,7 +20,7 @@ _Architectural and operational ownership of the cloud infrastructure, responsibl
 Retail.<br>
 _Architectural and operational ownership of the eCommerce platform, which includes monitoring, scale and integration._
   - AWS
-  - Go development (automation tools, serverless backend applications)
+  - GoLang development (automation tools, serverless backend applications)
   - Docker, Bitbucket, Grafana, InfluxDB, ES
   - Code:
     - [ecs-balancer](https://github.com/dwtechnologies/ecs-balancer)
@@ -41,7 +41,7 @@ _Responsible for the planning, delivering, monitoring, maintenance and scale of 
 **Application Technician** @ [Unibet](https://kindredgroup.com) _(May 2010 - Jan 2011)_ <br>
 Online gambling.
   - Linux
-  - Java
+  - Java, Glassfish
   - Puppet
 <br><br>
 
