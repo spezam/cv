@@ -17,7 +17,7 @@ _Architectural and operational ownership of the cloud infrastructure, responsibl
 <br><br>
 
 **Cloud Engineer and Architect** @ [DW](https://danielwellington.com) _(Aug 2017 - March 2021)_ <br>
-Retail company.<br>
+Retail.<br>
 _Architectural and operational ownership of the eCommerce platform, which includes monitoring, scale and integration._
   - AWS
   - Go development (automation tools, serverless backend applications)
@@ -29,7 +29,7 @@ _Architectural and operational ownership of the eCommerce platform, which includ
 <br><br>
 
 **Application Engineer** @ [Kambi](https://kambi.com) _(Jan 2011 - Jun 2017)_ <br>
-B2B sports gambling company.<br>
+B2B sports gambling.<br>
 _Responsible for the planning, delivering, monitoring, maintenance and scale of the distributed application stack, based on microservices mainly written in Java._
   - AWS
   - CI/CD and configuration management: Puppet, Jenkins, Ansible, Capistrano
@@ -39,7 +39,7 @@ _Responsible for the planning, delivering, monitoring, maintenance and scale of 
 <br><br>
 
 **Application Technician** @ [Unibet](https://kindredgroup.com) _(May 2010 - Jan 2011)_ <br>
-Online gambling company.
+Online gambling.
   - Linux
   - Java
   - Puppet
@@ -73,7 +73,7 @@ Plan, design, implementation and maintenance of a proxy and mail subsystems.
 <br><br>
 
 **Integration Engineer** @ [Commerciale Brendolan](https://www.selexgc.it) _(Oct 2004 - Dec 2006)_ <br>
-Retail company.<br>
+Retail.<br>
 _Installation, management and responsibility of a server farm with around 20 Windows 2003/Linux IBM xSeries servers (305, 306, 445DP, 445MP, 345 models), SUN Fire X4100, a FAStT900 SAN and an IBM Blade Center with HS20 Blade Servers, 3 Firewalls and 7 Cisco routers (1700series and 2700series)._
   - Linux, Windows Server
   - Development and ownership of _Commbre Desktop System_, environment for the centralization of information and administration tasks. Based on LVS (Linux Virtual Server) architecture, NoMachine NX session compression protocol, Polyserve Matrix data clustering software, Praim Thin Client.
