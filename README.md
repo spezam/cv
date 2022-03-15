@@ -8,8 +8,11 @@ _Cloud engineer and architect based in Stockholm, Sweden_
 
 **Cloud Engineer** @ [Trustly](https://www.trustly.net) _(March 2021 - )_ <br>
 Fintech.<br>
-  - GCP
-  - Kubernetes, ArgoCD, Terraform, Ansible
+  - GCP, AWS
+  - Kubernetes (GKE, EKS)
+  - Terraform, Cloudformation, Ansible
+  - ArgoCD, Helm, Kustomize, Spinnaker, GitHub Actions
+  - Istio
 <br><br>
 
 **Cloud Engineer and Architect** @ [DW](https://danielwellington.com) _(Aug 2017 - March 2021)_ <br>
