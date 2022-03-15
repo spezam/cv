@@ -1,4 +1,5 @@
-theme: jekyll-theme-minimal
+# theme: jekyll-theme-minimal
+remote_theme: pages-themes/minimal@v0.2.0
 title: ⌨️
 description: Matteo Ridolfi's CV
 github:
