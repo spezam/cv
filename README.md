@@ -12,7 +12,7 @@ _Architectural and operational ownership of the cloud infrastructure, responsibl
   - GCP, AWS
   - Kubernetes (GKE, EKS)
   - Terraform, Cloudformation, Ansible
-  - ArgoCD, Helm, Kustomize, Karpenter, GitHub Actions
+  - ArgoCD, Helm, Kustomize, Karpenter, Kyverno, GitHub Actions
   - Istio
 <br><br>
 
