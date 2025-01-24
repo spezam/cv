@@ -6,7 +6,7 @@ _Cloud engineer and architect based in Stockholm, Sweden_
 
 ## 🔧 Technical Experience
 
-**Cloud Engineer** @ [Trustly](https://www.trustly.net) _(August 2022 -)_ <br>
+**Cloud Engineer** @ [Qred](https://www.qred.se) _(August 2022 -)_ <br>
 Fintech.<br>
 _Architectural and operational ownership of the cloud infrastructure._
   - AWS
