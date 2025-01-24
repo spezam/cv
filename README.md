@@ -6,7 +6,15 @@ _Cloud engineer and architect based in Stockholm, Sweden_
 
 ## 🔧 Technical Experience
 
-**Cloud Engineer** @ [Trustly](https://www.trustly.net) _(March 2021 - )_ <br>
+**Cloud Engineer** @ [Trustly](https://www.trustly.net) _(August 2022 -)_ <br>
+Fintech.<br>
+_Architectural and operational ownership of the cloud infrastructure._
+  - AWS
+  - Serverless
+  - CDK, Cloudformation
+<br><br>
+
+**Lead Cloud Engineer** @ [Trustly](https://www.trustly.net) _(March 2021 - July 2022)_ <br>
 Fintech.<br>
 _Architectural and operational ownership of the cloud infrastructure, responsible for the planning and implementation of onPrem -> Cloud workload migration._
   - GCP, AWS
